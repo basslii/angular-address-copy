@@ -1,5 +1,7 @@
 # AngularEmailTesting
 
+* This project is about using code logic to get value of kain input and paste it to other inputs
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 ## Development server
